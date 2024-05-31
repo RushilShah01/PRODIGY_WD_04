@@ -23,9 +23,9 @@ const About = () => {
               <p className='abop'>Get To Know Me</p>
               <h2 className='abo'>About Me</h2>
               <div className='about' id='about'>
-                <p classname='white'>Hi, I'm Rushil Shah, a passionate web developer specializing in creating stunning, user-friendly websites that drive engagement and conversions.</p>
+                <p className='white'>Hi, I'm Rushil Shah, a passionate web developer specializing in creating stunning, user-friendly websites that drive engagement and conversions.</p>
                 <p className='purple'>With a degree in Computer Science from Parul University, I have honed my skills in front-end and back-end development, ensuring a seamless user experience.</p>
-                <p classname='white'>I specialize in HTML, CSS, JavaScript, React, Node.js, and Python. I have extensive experience with responsive design, API integration, and database management.</p>
+                <p className='white'>I specialize in HTML, CSS, JavaScript, React, Node.js, and Python. I have extensive experience with responsive design, API integration, and database management.</p>
               </div>
               <div className='edu'>
                 <h1>Education</h1>
