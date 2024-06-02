@@ -30,7 +30,7 @@ const About = () => {
               <div className='edu'>
                 <h1>Education</h1>
                 <h3>Diploma in Computer Engineering (2019-2022)</h3>
-                <h3>Batchelors in Computer Science and Engineering (2022 - Present)</h3>
+                <h3>Bachelors in Computer Science and Engineering (2022 - Present)</h3>
               </div>
               <hr />
             </div>
